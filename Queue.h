@@ -39,7 +39,7 @@ int Queue::dequeue(){
     }
      /* Add head and tail for me please */
   }
-  cout<<"Empty queue\n";
+  cout<<"Empty Queue"<<endl;
   return -1;
 }
 
